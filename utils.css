@@ -1,0 +1,28 @@
+html,body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
+.text-center{
+    text-align: center ;
+}
+.bg-red{
+    background: red;
+}
+.mx-auto{
+    margin: auto;
+}
+.m-w-20{
+    max-width: 30vw;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
