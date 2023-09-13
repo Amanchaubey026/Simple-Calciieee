@@ -1,0 +1,2 @@
+# Simple-Calciieee
+Basic calculator
